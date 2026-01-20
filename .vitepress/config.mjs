@@ -21,7 +21,7 @@ export default defineConfig({
       {
         text: "🚀 Getting Started",
         items: [
-          { text: "1. Introduction & Overview", link: "/index" },
+          { text: "1. Introduction & Overview", link: "/" },
           { text: "2. Installation Guide", link: "/installation" },
           { text: "3. Theming & Customization", link: "/theming" },
         ],
